@@ -1,12 +1,7 @@
-h1{
+.bigboys{
     color: brown;
     text-align: center;
     font-family: "Arial" ,sans-serif;
-}
-*{
-    background-image: url(https://thumbs.dreamstime.com/b/greek-food-background-traditional-different-greek-dishes-set-greek-food-background-traditional-different-greek-dishes-set-top-view-178761927.jpg);
-    background-attachment: fixed;
-    background-repeat: repeat;
 }
 .img1{
     height: 200 px;
@@ -20,4 +15,12 @@ h1{
     font-size: 25px;
     display: grid;
     font-style: italic;
+    color: black;
 }
+
+.writtenstuff{
+    font-size: 20px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
